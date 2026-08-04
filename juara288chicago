@@ -329,7 +329,7 @@ body {
   <header class="header">
     <amp-img
       class="logo"
-      src="https://tsopchicago.com/gambar/logochicago.gif.webp"
+      src="https://tsopchicago.com/gambar/logochicago.gif"
       width="190" height="60" layout="fixed"
       alt="SITUS TOTO - Logo">
     </amp-img>
